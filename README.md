@@ -1,3 +1,5 @@
+My theme will be NFL teams because the season is starting soon! FUN
+
 As a user, I want to know I’m at the correct website.
 
 As a user, I want to see a keyboard style buttons with every letter in the alphabet, so that I know what my options are for this game.
